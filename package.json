@@ -1,0 +1,22 @@
+{
+  "name": "http_over_udp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shynome/types__wrtc": "0.0.4",
+    "@types/node": "^14.14.6",
+    "@types/webrtc": "0.0.26",
+    "@types/wrtc": "npm:@shynome/types__wrtc",
+    "morglod_mystd": "^1.0.5",
+    "wrtc": "0.4.6"
+  },
+  "devDependencies": {
+    "axios": "^0.21.0"
+  }
+}
